@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/RazielTX/NFTPreview)
-- Live Site URL: [Add live site URL here](https://razieltx.github.io/NFTPreview/)
+- Solution URL: [GitHub repository](https://github.com/RazielTX/NFTPreview)
+- Live Site URL: [GitHub Pages Live](https://razieltx.github.io/NFTPreview/)
 
 ## My process
 
